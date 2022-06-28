@@ -2,7 +2,7 @@
 
 This Website was created based on Bootstrap. Mostly it's a responsive web ... Have some requirements for this website ☺
 
-            ************Projects Requirements************
+               ************Projects Requirements************
 
 Your task is to create a landing page using the Bootstrap framework. The following shows the sections you are required to create in that landing page:
 
